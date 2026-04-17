@@ -11,6 +11,10 @@ Frequency  :  145.8  MHz    *ISS DownLink*
 
 Wavelength :  2057.613  mm
 
+Dipole lenght (Lambda/2) : 1.028,8 mm
+
+Stub Lenght : 514,4 mm
+
 d/lambda   :  0.01    ( min.: 0.001 , max.: 0.04 )
 
 D/lambda   :  0.002    ( min.: 0.002 , max.: 0.04 )
