@@ -8,11 +8,17 @@ Design by www.changpuak.ch
 
 
 Frequency  :  145.8  MHz    *ISS DownLink*
+
 Wavelength :  2057.613  mm
+
 d/lambda   :  0.01    ( min.: 0.001 , max.: 0.04 )
+
 D/lambda   :  0.002    ( min.: 0.002 , max.: 0.04 )
+
 Boomlength :  1235  mm
+
 Elements   :  4
+
 Gain       :  7.9  dB    (approx.)
 
 
