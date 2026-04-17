@@ -30,6 +30,7 @@ Gain       :  7.9  dB    (approx.)
 
 
 Reflector Length [mm] : 993
+
 Reflector Position [mm] : 0
 
 
@@ -37,6 +38,7 @@ Reflector Position [mm] : 0
 
 
 Dipole Length [mm] : 992
+
 Dipole Position [mm] : 412
 
 
@@ -44,6 +46,7 @@ Dipole Position [mm] : 412
 
 
 Director Length [mm] : 913
+
 Director Position [mm] : 823
 
 
@@ -51,6 +54,7 @@ Director Position [mm] : 823
 
 
 Director Length [mm] : 913
+
 Director Position [mm] : 1235
 
 
@@ -58,5 +62,7 @@ Director Position [mm] : 1235
 
 
 Calculations based on NBS TECHNICAL NOTE 688
+
 Length might be slightly too long.
+
 Manufacturing Tolerances : < 4  mm 
